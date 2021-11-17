@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Ex2
+class NestedIfElseExample
 {
 	public static void main(String arg[])
 	{
