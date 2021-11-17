@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Ex3
+class SwitchCaseExample
 {
 	public static void main(String arg[])
 	{
@@ -8,7 +8,7 @@ class Ex3
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Enter i value");
 		i=sc.nextInt();
-		switch(7.5)
+		switch(i)
 		{
 			case 0: System.out.println("Sunday"); 
 			case 1: System.out.println("monday"); 
