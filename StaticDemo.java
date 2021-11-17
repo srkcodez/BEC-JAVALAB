@@ -20,7 +20,7 @@ class A
 
 }
 
-class P1
+class StaticDemo
 {
 
 
