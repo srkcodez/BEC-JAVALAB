@@ -4,7 +4,7 @@ class C1 implements Cloneable
 
 }
 
-class Practice
+class CloneExample
 {
 	public static void main(String args[])
 	{
