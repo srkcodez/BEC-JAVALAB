@@ -1,7 +1,7 @@
 package MyPack;
 
 
-public class A
+public class PackExample
 {
 
 	public void display()
