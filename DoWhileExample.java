@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Ex1
+class DoWhileExample
 {
 	public static void main(String arg[])
 	{
